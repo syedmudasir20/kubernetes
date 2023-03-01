@@ -7,6 +7,6 @@ spec:
   - name: container1
     image: nginx
   - name: container2
-    image: nginx
+    image: redis
   - name: container3
-    image: nginx
+    image: memcached
